@@ -1,3 +1,4 @@
+package addiererTest;
 
 public class Addierer {
 

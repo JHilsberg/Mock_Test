@@ -1,3 +1,4 @@
+package addiererTest;
 import java.util.LinkedList;
 
 public class MockDatenbank implements Datenbank{

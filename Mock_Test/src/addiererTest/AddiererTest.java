@@ -1,3 +1,4 @@
+package addiererTest;
 import junit.framework.TestCase;
 
 
